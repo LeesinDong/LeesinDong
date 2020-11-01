@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=LeesinDong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeesinDong&amp;show_icons=true&amp;icon_color=805AD5&amp;text_color=718096&amp;bg_color=ffffff&amp;hide_title=true" style="max-width:100%;">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeesinDong&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### 你好，世界 👋
 
