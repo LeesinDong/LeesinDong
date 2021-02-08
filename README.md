@@ -4,12 +4,10 @@
 
 ### 你好，世界 👋
 
-- 🔭 I’m currently working on bixin
 - 📚 https://blog.csdn.net/dataiyangu
-- 🇨🇳 上海
+- 🇨🇳 北京
 - 🐖 java👨‍💻‍
 - 📮 32248827@qq.com
--  好想要个女朋友哇！
 
 <!--- :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
