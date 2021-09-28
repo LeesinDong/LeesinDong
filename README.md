@@ -4,7 +4,7 @@
 
 ### 你好，世界 👋
 
-- 📚 https://blog.csdn.net/dataiyangu
+- 📚 https://ilxx.gitee.io/
 - 🇨🇳 北京
 - 🐖 java👨‍💻‍
 - 📮 32248827@qq.com
