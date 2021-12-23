@@ -8,6 +8,7 @@
 - 🇨🇳 北京
 - 🐖 java👨‍💻‍
 - 📮 32248827@qq.com
+- the meaning of life is not triumph but the struggle.
 
 <!--- :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
